@@ -1,0 +1,16 @@
+bod{
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+    max-width: 100%;
+    display: block;
+}
+
+
+.info:{
+    background-color: #262930;
+    padding: 64px 16px ;
+}
+
