@@ -31,38 +31,46 @@ img{
 .card{
     display: grid;
    grid-template-columns: 1fr 1fr;
-   gap: 0px;
-   padding: 0px 0px;
+   gap: 60px;
+   padding: 20px 30px;
     
 }
 
-.card img{
-    height: 400px;
-    width: 100%;
+p1{
+    margin: 0;
+    color: black;
+    text-align: left;
+    font-weight: normal;
+    font-size: 50px;
+}
+
+.card1 img{
+    height: 500px;
+    width: 200%;
     object-fit: cover;
 }
 
-p{
+p2{
     margin: 0;
     color: black;
-    text-align: center;
+    text-align: left;
     font-weight: normal;
-    font-size: 68px;
+    font-size: 40px;
 }
 
-.img{
+.card2 img{
     max-width: 1000px;
     margin: auto;
-    height: 400px;
+    height: 500px;
     width: 100%;
 }
 
-p{
+p3{
     margin: 0;
     color: black;
-    text-align: center;
+    text-align: left;
     font-weight: normal;
-    font-size: 68px;
+    font-size: 50px;
 }
 
 footer{
